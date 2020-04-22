@@ -6,7 +6,7 @@ int main(void)
 {
 	
 	printf("이건 마스터인가ㅋㅋㅋㅋㅋㅋㅋ");
-	printf("아닌가");
+	printf("아닌가???");
 
 	return 0;
 }
